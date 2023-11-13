@@ -1,0 +1,14 @@
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\bin\Debug\net7.0\Bibliotek.exe
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\bin\Debug\net7.0\Bibliotek.deps.json
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\bin\Debug\net7.0\Bibliotek.runtimeconfig.json
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\bin\Debug\net7.0\Bibliotek.dll
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\bin\Debug\net7.0\Bibliotek.pdb
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\Bibliotek.GeneratedMSBuildEditorConfig.editorconfig
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\Bibliotek.AssemblyInfoInputs.cache
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\Bibliotek.AssemblyInfo.cs
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\Bibliotek.csproj.CoreCompileInputs.cache
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\Bibliotek.dll
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\refint\Bibliotek.dll
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\Bibliotek.pdb
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\Bibliotek.genruntimeconfig.cache
+E:\Webbutveckling\C#\Övningar_skolan\Bibliotek\obj\Debug\net7.0\ref\Bibliotek.dll
